@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/iv_video_cutter"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:text="GO ViDEO CUTTER"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_compress"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_to_mp3"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_mixer"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_join"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_to_img"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_format_change"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_fast_motion"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_slow_motion"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_crop"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_to_gif"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_mirror"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_rotate"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_split"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_reverse"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_video_collage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_audio_compress"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_audio_cutter"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+        <ImageView
+            android:id="@+id/iv_photo_video"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_baseline_album_24" />
+
+
+    </LinearLayout>
+</layout>
